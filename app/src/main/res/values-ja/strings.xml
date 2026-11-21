@@ -469,6 +469,9 @@
     <string name="immersive_windows_vr_export_desc">ランタイムイベントの要約レポートを保存</string>
     <string name="tools_wine_processes_running_hint">%1$d が実行中です。プロセスをタップ/クリックして閉じます</string>
     <string name="tools_wine_processes_empty">実行中のEXEは検出されませんでした。</string>
+    <string name="quick_menu_taskmgr_create">新しいタスクの作成</string>
+    <string name="quick_menu_taskmgr_string">プログラム、フォルダー、ドキュメント、またはインターネット リソースの名前を入力すると、Wine が開きます。</string>
+    <string name="quick_menu_taskmgr_switchwindows">ウィンドウの切り替え</string>
     <string name="performance_hud">パフォーマンス HUD</string>
     <string name="performance_hud_description">ゲーム内のオーバーレイを表示または非表示にします。</string>
     <string name="performance_hud_fps_limiter">FPSリミッター</string>
@@ -929,6 +932,13 @@
     <string name="steam_sign_out">Steamからサインアウトする</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">情報</string>
+    <string name="container_cover">カバー画像</string>
+    <string name="container_name">名前</string>
+    <string name="container_option_cover">カバー画像を選択</string>
+    <string name="container_option_images">画像を選択</string>
+    <string name="container_option_image_types">画像の種類</string>
+    <string name="container_dialog_image">画像ファイルはゲームのフォルダーに保存されます。「カバー画像を選択」ですべての表示に使うカバーを設定するか、「ファイルをインポート(取り込み)」で次の名前のファイルを使います：\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">新しい環境変数</string>
     <string name="name">名前</string>
     <string name="value">値</string>
@@ -1378,6 +1388,8 @@
     <string name="settings_emulation_contents_manager_subtitle">追加のコンポーネント (.wcp) をインストールする</string>
     <string name="settings_emulation_wine_proton_manager_title">Wine/Protonマネージャー</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">カスタム Wine/Proton バージョンをインポートする (Bionic のみ)</string>
+    <string name="config_emulation_direct_mode_title">ダイレクトモード</string>
+    <string name="config_emulation_direct_mode">GameScope と組み合わせて使用する場合、仮想デスクトップなしでプログラムを直接起動します。解像度が無視されることがありますが、ある程度のマルチタスクが可能になります。</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">デバッグ</string>

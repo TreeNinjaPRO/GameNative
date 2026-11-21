@@ -972,6 +972,13 @@ https://gamenative.app
     <string name="mtrl_switch_track_path">M0,16 A16,16 0 0,1 16,0 H36 A16,16 0 0,1 36,32 H16 A16,16 0 0,1 0,16</string>
     <string name="name">Название</string>
     <string name="navigation_menu">Меню навигации</string>
+    <string name="container_overview">Информация</string>
+    <string name="container_cover">Обложка</string>
+    <string name="container_name">Название</string>
+    <string name="container_option_cover">Выбрать обложку</string>
+    <string name="container_option_images">Выбрать изображения</string>
+    <string name="container_option_image_types">Типы изображений</string>
+    <string name="container_dialog_image">Файлы изображений хранятся в папке игры. «Выбрать обложку» задаёт одну обложку для всех видов, или используйте «Импорт файлов» с такими именами:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Новая переменная окружения</string>
     <string name="no">Нет</string>
     <string name="no_available_drive_letters">Нет доступных букв дисков</string>
@@ -1386,6 +1393,8 @@ https://gamenative.app
     <string name="debug_report_use_discord">Использовать Discord</string>
     <string name="debug_report_use_app">Использовать чат в приложении</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Импортировать пользовательские версии Wine/Proton (только Bionic)</string>
+    <string name="config_emulation_direct_mode_title">Прямой режим</string>
+    <string name="config_emulation_direct_mode">Запускать программы напрямую при использовании вместе с GameScope, без виртуального рабочего стола. Разрешение может игнорироваться, но становится возможной некоторая многозадачность.</string>
     <string name="settings_emulation_wine_proton_manager_title">Менеджер Wine/Proton</string>
     <string name="settings_info_libraries_subtitle">Узнайте, какие технологии делают GameNative возможным</string>
     <string name="settings_info_libraries_title">Используемые библиотеки</string>
@@ -1746,6 +1755,9 @@ https://gamenative.app
     <string name="task_manager">Менеджер задач</string>
     <string name="tools_wine_processes_running_hint">%1$d запущено, нажмите/кликните по процессу, чтобы закрыть его</string>
     <string name="tools_wine_processes_empty">Запущенные EXE не обнаружены.</string>
+    <string name="quick_menu_taskmgr_create">Создать новую задачу</string>
+    <string name="quick_menu_taskmgr_string">Введите имя программы, папки, документа или ресурса Интернета, и Wine откроет его.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Переключение окон</string>
     <string name="template_percent">%1$d процент.</string>
     <string name="thumbstick_buttons">Кнопки джойстика</string>
     <string name="thumbstick_buttons_category">Кнопки джойстика</string>

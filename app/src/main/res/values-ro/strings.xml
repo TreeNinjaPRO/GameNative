@@ -280,6 +280,9 @@
     <string name="task_manager">Manager de activități</string>
     <string name="tools_wine_processes_running_hint">%1$d în execuție, atinge/clic pe un proces pentru a-l închide</string>
     <string name="tools_wine_processes_empty">Niciun EXE în execuție detectat.</string>
+    <string name="quick_menu_taskmgr_create">Creează o sarcină nouă</string>
+    <string name="quick_menu_taskmgr_string">Tastează numele unui program, folder, document sau al unei resurse de internet, iar Wine îl va deschide.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Comută ferestrele</string>
     <string name="magnifier">Lupă</string>
     <string name="logs">Loguri</string>
     <string name="exit_game">Ieșire</string>
@@ -738,6 +741,13 @@
     <string name="steam_sign_out">Deconectare de la Steam</string>
 
     <!-- Container Configuration: General -->
+	<string name="container_overview">Informații</string>
+	<string name="container_cover">Copertă</string>
+	<string name="container_name">Nume</string>
+	<string name="container_option_cover">Alege coperta</string>
+	<string name="container_option_images">Alege imagini</string>
+	<string name="container_option_image_types">Tipuri de imagini</string>
+	<string name="container_dialog_image">Fișierele imagine sunt stocate în folderul jocului. „Alege coperta” setează o copertă pentru toate vizualizările sau folosește „Importă fișiere” cu aceste nume:\n\ncover\ncoverh\ncoverv</string>
 	<string name="new_environment_variable">Variabilă de mediu nouă</string>
 	<string name="name">Nume</string>
 	<string name="value">Valoare</string>
@@ -1221,6 +1231,8 @@
 	<string name="settings_emulation_contents_manager_subtitle">Instalează componente suplimentare (.wcp)</string>
 	<string name="settings_emulation_wine_proton_manager_title">Manager Wine/Proton</string>
 	<string name="settings_emulation_wine_proton_manager_subtitle">Importă versiuni personalizate de Wine/Proton (doar Bionic)</string>
+	<string name="config_emulation_direct_mode_title">Mod direct</string>
+	<string name="config_emulation_direct_mode">Lansează programele direct atunci când este folosit împreună cu GameScope, fără un desktop virtual. Acest lucru poate ignora rezoluția, dar permite un pic de multitasking.</string>
 
 	<!-- Settings: Debug Group -->
 	<string name="settings_debug_title">Depanare</string>

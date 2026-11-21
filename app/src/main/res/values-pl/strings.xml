@@ -288,6 +288,9 @@
     <string name="task_manager">Menedżer zadań</string>
     <string name="tools_wine_processes_running_hint">%1$d uruchomionych, stuknij/kliknij proces, aby go zamknąć</string>
     <string name="tools_wine_processes_empty">Nie wykryto uruchomionych plików EXE.</string>
+    <string name="quick_menu_taskmgr_create">Utwórz nowe zadanie</string>
+    <string name="quick_menu_taskmgr_string">Wpisz nazwę programu, folderu, dokumentu lub zasobu internetowego, a Wine go otworzy.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Przełącz okna</string>
     <string name="magnifier">Lupa</string>
     <string name="logs">Logi</string>
     <string name="exit_game">Wyjdź</string>
@@ -744,6 +747,13 @@
     <string name="steam_sign_out">Wyloguj ze Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Informacje</string>
+    <string name="container_cover">Okładka</string>
+    <string name="container_name">Nazwa</string>
+    <string name="container_option_cover">Wybierz okładkę</string>
+    <string name="container_option_images">Wybierz obrazy</string>
+    <string name="container_option_image_types">Typy obrazów</string>
+    <string name="container_dialog_image">Pliki obrazów są przechowywane w folderze gry. „Wybierz okładkę” ustawia jedną okładkę dla wszystkich widoków; możesz też użyć „Importuj pliki” z tymi nazwami:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Nowa zmienna środowiskowa</string>
     <string name="name">Nazwa</string>
     <string name="value">Wartość</string>
@@ -1229,6 +1239,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Zainstaluj dodatkowe komponenty (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Menedżer Wine/Proton</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Importuj niestandardowe wersje Wine/Proton (tylko Bionic)</string>
+    <string name="config_emulation_direct_mode_title">Tryb bezpośredni</string>
+    <string name="config_emulation_direct_mode">Uruchamia programy bezpośrednio w połączeniu z GameScope, bez wirtualnego pulpitu. Może to ignorować rozdzielczość, ale pozwala na pewną wielozadaniowość.</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Debugowanie</string>

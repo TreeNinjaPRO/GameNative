@@ -283,6 +283,9 @@
     <string name="task_manager">Gestionnaire de tâches</string>
     <string name="tools_wine_processes_running_hint">%1$d en cours, touchez/cliquez sur un processus pour le fermer</string>
     <string name="tools_wine_processes_empty">Aucun EXE en cours d\'exécution détecté.</string>
+    <string name="quick_menu_taskmgr_create">Créer une nouvelle tâche</string>
+    <string name="quick_menu_taskmgr_string">Saisissez le nom d\'un programme, dossier, document ou ressource Internet, et Wine l\'ouvrira pour vous.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Changer de fenêtre</string>
     <string name="magnifier">Loupe</string>
     <string name="logs">Journaux</string>
     <string name="exit_game">Quitter</string>
@@ -755,6 +758,13 @@
     <string name="steam_sign_out">Se déconnecter de Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Informations</string>
+    <string name="container_cover">Jaquette</string>
+    <string name="container_name">Nom</string>
+    <string name="container_option_cover">Choisir la jaquette</string>
+    <string name="container_option_images">Choisir des images</string>
+    <string name="container_option_image_types">Types d’image</string>
+    <string name="container_dialog_image">Les fichiers image sont enregistrés dans le dossier du jeu. « Choisir la jaquette » définit une jaquette pour toutes les vues, ou utilisez « Importer des fichiers » avec ces noms :\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Nouvelle variable d\'environnement</string>
     <string name="name">Nom</string>
     <string name="value">Valeur</string>
@@ -1236,6 +1246,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Installer des composants supplémentaires (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Gestionnaire Wine/Proton</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Importer des versions Wine/Proton personnalisées (Bionic uniquement)</string>
+    <string name="config_emulation_direct_mode_title">Mode direct</string>
+    <string name="config_emulation_direct_mode">Lance les programmes directement en combinaison avec GameScope, sans bureau virtuel. Cela peut ignorer la résolution, mais permet un peu de multitâche.</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Débogage</string>

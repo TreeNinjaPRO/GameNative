@@ -291,6 +291,9 @@
     <string name="task_manager">Administrador de tareas</string>
     <string name="tools_wine_processes_running_hint">%1$d en ejecución, toca/haz clic en un proceso para cerrarlo</string>
     <string name="tools_wine_processes_empty">No se detectaron EXE en ejecución.</string>
+    <string name="quick_menu_taskmgr_create">Crear nueva tarea</string>
+    <string name="quick_menu_taskmgr_string">Escribe el nombre de un programa, carpeta, documento o recurso de Internet, y Wine lo abrirá por ti.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Cambiar de ventana</string>
     <string name="magnifier">Lupa</string>
     <string name="logs">Registros</string>
     <string name="exit_game">Salir</string>
@@ -780,6 +783,13 @@
     <string name="steam_sign_out">Cerrar sesión de Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Información</string>
+    <string name="container_cover">Portada</string>
+    <string name="container_name">Nombre</string>
+    <string name="container_option_cover">Elegir portada</string>
+    <string name="container_option_images">Elegir imágenes</string>
+    <string name="container_option_image_types">Tipos de imagen</string>
+    <string name="container_dialog_image">Los archivos de imagen se guardan en la carpeta del juego. «Elegir portada» asigna una portada para todas las vistas, o usa «Importar archivos» con estos nombres:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Nueva variable de entorno</string>
     <string name="name">Nombre</string>
     <string name="value">Valor</string>
@@ -1224,6 +1234,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Instala componentes adicionales (.wcp).</string>
     <string name="settings_emulation_wine_proton_manager_title">Gestor de Wine/Proton</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Importa versiones personalizadas de Wine/Proton (solo Bionic).</string>
+    <string name="config_emulation_direct_mode_title">Modo directo</string>
+    <string name="config_emulation_direct_mode">Inicia los programas directamente cuando se usa junto con GameScope, sin un escritorio virtual. Esto puede ignorar la resolución, pero permite algo de multitarea.</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Depuración</string>

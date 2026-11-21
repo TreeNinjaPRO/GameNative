@@ -211,6 +211,9 @@
     <string name="task_manager">Jobliste</string>
     <string name="tools_wine_processes_running_hint">%1$d kører, tryk/klik på en proces for at lukke den</string>
     <string name="tools_wine_processes_empty">Ingen kørende EXE-filer fundet.</string>
+    <string name="quick_menu_taskmgr_create">Opret ny opgave</string>
+    <string name="quick_menu_taskmgr_string">Skriv navnet på et program, en mappe, et dokument eller en internetressource, så åbner Wine det for dig.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Skift vindue</string>
     <string name="magnifier">Forstørrelsesglas</string>
     <string name="logs">Logfiler</string>
     <string name="exit_game">Afslut</string>
@@ -571,6 +574,13 @@
     <string name="steam_sign_out">Log ud af Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Information</string>
+    <string name="container_cover">Omslag</string>
+    <string name="container_name">Navn</string>
+    <string name="container_option_cover">Vælg omslag</string>
+    <string name="container_option_images">Vælg billeder</string>
+    <string name="container_option_image_types">Billedtyper</string>
+    <string name="container_dialog_image">Billedfiler gemmes i spillets mappe. “Vælg omslag” angiver ét omslag til alle visninger, eller brug “Importér filer” med disse navne:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Ny miljøvariabel</string>
     <string name="name">Navn</string>
     <string name="value">Værdi</string>
@@ -1022,6 +1032,8 @@
     <string name="settings_emulation_default_config_dialog_title">Standard containerkonfiguration</string>
     <string name="settings_emulation_auto_apply_known_config_title">Anvend kendt konfiguration automatisk</string>
     <string name="settings_emulation_auto_apply_known_config_subtitle">Anvend automatisk anbefalede indstillinger for Steam-spil ved første start</string>
+    <string name="config_emulation_direct_mode_title">Direkte tilstand</string>
+    <string name="config_emulation_direct_mode">Start programmer direkte i kombination med GameScope uden et virtuelt skrivebord. Dette kan ignorere opløsningen, men tillader en vis multitasking.</string>
     <string name="settings_emulation_fex_code_map_upload_title">Upload FEX-kodekort</string>
     <string name="settings_emulation_fex_code_map_upload_subtitle">Sender hvilke kodeblokke i et spils programfiler der blev kørt, ingen personlige data. Normalt under 1 MB pr. spil.</string>
     <string name="settings_emulation_fex_code_cache_use_title">Brug FEX-kodecaches (eksperimentel)</string>

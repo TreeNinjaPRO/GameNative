@@ -728,6 +728,13 @@
     <string name="steam_sign_out">登出 Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">資訊</string>
+    <string name="container_cover">封面</string>
+    <string name="container_name">名稱</string>
+    <string name="container_option_cover">選擇封面</string>
+    <string name="container_option_images">選擇圖片</string>
+    <string name="container_option_image_types">圖片類型</string>
+    <string name="container_dialog_image">圖片檔案儲存在遊戲資料夾中。「選擇封面」會為所有檢視設定同一個封面，也可以透過「匯入檔案」匯入以下名稱的檔案：\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">新增環境變數</string>
     <string name="name">名稱</string>
     <string name="value">值</string>
@@ -1204,6 +1211,8 @@
     <string name="settings_emulation_contents_manager_subtitle">安裝附加元件 (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Wine/Proton 管理員</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">匯入自訂的 Wine/Proton 版本 (僅限 Bionic)</string>
+    <string name="config_emulation_direct_mode_title">直接模式</string>
+    <string name="config_emulation_direct_mode">與 GameScope 搭配使用時，不經過虛擬桌面直接啟動程式。這可能會忽略解析度，但可以進行一定程度的多工處理。</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">除錯</string>
@@ -2235,6 +2244,9 @@
     <string name="settings_interface_custom_game_import_as_steam">將自訂遊戲作為 Steam 遊戲匯入</string>
 
     <string name="tools_wine_processes_empty">未偵測到正在執行的 EXE。</string>
+    <string name="quick_menu_taskmgr_create">建立新工作</string>
+    <string name="quick_menu_taskmgr_string">輸入程式、資料夾、文件或網際網路資源的名稱，Wine 會為您開啟它。</string>
+    <string name="quick_menu_taskmgr_switchwindows">切換視窗</string>
     <!-- HLTB (How Long To Beat) -->
     <string name="hltb_main_story">主線劇情</string>
     <string name="hltb_main_plus_extras">主線 + 支線</string>

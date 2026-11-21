@@ -270,6 +270,9 @@
     <string name="task_manager">Task-Manager</string>
     <string name="tools_wine_processes_running_hint">%1$d aktiv, tippe/klicke auf einen Prozess, um ihn zu schließen</string>
     <string name="tools_wine_processes_empty">Keine laufenden EXE-Dateien erkannt.</string>
+    <string name="quick_menu_taskmgr_create">Neuen Task erstellen</string>
+    <string name="quick_menu_taskmgr_string">Gib den Namen eines Programms, Ordners, Dokuments oder einer Internetressource ein, und Wine öffnet es für dich.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Fenster wechseln</string>
     <string name="magnifier">Lupe</string>
     <string name="logs">Logs</string>
     <string name="exit_game">Beenden</string>
@@ -710,6 +713,13 @@
     <string name="steam_go_offline">Offline gehen (Steam)</string>
     <string name="steam_sign_out">Von Steam abmelden</string>
     <!-- Container Configuration: General -->
+    <string name="container_overview">Informationen</string>
+    <string name="container_cover">Cover</string>
+    <string name="container_name">Name</string>
+    <string name="container_option_cover">Cover wählen</string>
+    <string name="container_option_images">Bilder wählen</string>
+    <string name="container_option_image_types">Bildtypen</string>
+    <string name="container_dialog_image">Bilddateien werden im Spielordner gespeichert. „Cover wählen“ legt ein Cover für alle Ansichten fest, oder nutze „Dateien importieren“ mit diesen Namen:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Neue Umgebungsvariable</string>
     <string name="name">Name</string>
     <string name="value">Wert</string>
@@ -1180,6 +1190,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Zusätzliche Komponenten (.wcp) installieren</string>
     <string name="settings_emulation_wine_proton_manager_title">Wine/Proton-Manager</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Importiere eigene Wine/Proton-Versionen (nur Bionic)</string>
+    <string name="config_emulation_direct_mode_title">Direktmodus</string>
+    <string name="config_emulation_direct_mode">Programme in Kombination mit GameScope direkt ohne virtuellen Desktop starten. Dies kann die Auflösung ignorieren, ermöglicht aber etwas Multitasking.</string>
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Debug</string>
     <string name="settings_debug_wine_channels_title">Wine-Debug-Kanäle auswählen</string>

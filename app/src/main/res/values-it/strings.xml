@@ -282,6 +282,9 @@
     <string name="task_manager">Gestione Attività</string>
     <string name="tools_wine_processes_running_hint">%1$d in esecuzione, tocca/fai clic su un processo per chiuderlo</string>
     <string name="tools_wine_processes_empty">Nessun EXE in esecuzione rilevato.</string>
+    <string name="quick_menu_taskmgr_create">Crea nuova attività</string>
+    <string name="quick_menu_taskmgr_string">Digita il nome di un programma, una cartella, un documento o una risorsa Internet e Wine lo aprirà per te.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Cambia finestra</string>
     <string name="magnifier">Lente d\'ingrandimento</string>
     <string name="logs">Log</string>
     <string name="exit_game">Esci</string>
@@ -737,6 +740,13 @@
     <string name="steam_sign_out">Esci da Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Informazioni</string>
+    <string name="container_cover">Copertina</string>
+    <string name="container_name">Nome</string>
+    <string name="container_option_cover">Scegli copertina</string>
+    <string name="container_option_images">Scegli immagini</string>
+    <string name="container_option_image_types">Tipi di immagine</string>
+    <string name="container_dialog_image">I file immagine vengono salvati nella cartella del gioco. «Scegli copertina» imposta una copertina per tutte le viste, oppure usa «Importa file» con questi nomi:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Nuova Variabile d\'Ambiente</string>
     <string name="name">Nome</string>
     <string name="value">Valore</string>
@@ -1210,6 +1220,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Installa componenti aggiuntivi (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Gestione Wine/Proton</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Importa versioni Wine/Proton personalizzate (solo Bionic)</string>
+    <string name="config_emulation_direct_mode_title">Modalità diretta</string>
+    <string name="config_emulation_direct_mode">Avvia i programmi direttamente quando usato insieme a GameScope, senza un desktop virtuale. Questo può ignorare la risoluzione, ma consente un po\' di multitasking.</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Debug</string>

@@ -428,6 +428,9 @@
     <string name="immersive_windows_vr_export_desc">Sınırlı çalışma zamanı olay raporunu kaydet</string>
     <string name="tools_wine_processes_running_hint">%1$d çalışıyor, kapatmak için bir işleme dokunun/tıklayın</string>
     <string name="tools_wine_processes_empty">Çalışan EXE bulunamadı.</string>
+    <string name="quick_menu_taskmgr_create">Yeni görev oluştur</string>
+    <string name="quick_menu_taskmgr_string">Bir program, klasör, belge veya İnternet kaynağının adını yazın; Wine sizin için açsın.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Pencereler arasında geçiş</string>
     <string name="performance_hud">Performans HUD</string>
     <string name="performance_hud_description">Oyun içi yer paylaşımını gösterin veya gizleyin.</string>
     <string name="performance_hud_fps_limiter">FPS sınırlayıcı</string>
@@ -822,6 +825,13 @@
     <string name="steam_go_online">Çevrimiçi ol (Steam)</string>
     <string name="steam_go_offline">Çevrimdışı ol (Steam)</string>
     <string name="steam_sign_out">Steam oturumunu kapat</string>
+    <string name="container_overview">Bilgi</string>
+    <string name="container_cover">Kapak</string>
+    <string name="container_name">Ad</string>
+    <string name="container_option_cover">Kapak seç</string>
+    <string name="container_option_images">Görsel seç</string>
+    <string name="container_option_image_types">Görsel türleri</string>
+    <string name="container_dialog_image">Görsel dosyaları oyunun klasöründe saklanır. “Kapak seç” tüm görünümler için tek bir kapak belirler ya da şu adlarla “Dosyaları içe aktar” seçeneğini kullanın:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Yeni ortam değişkeni</string>
     <string name="name">Ad</string>
     <string name="value">Değer</string>
@@ -1278,6 +1288,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Ek bileşenler yükleyin (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Wine/Proton yöneticisi</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Özel Wine/Proton sürümlerini içe aktarın (yalnızca Bionic)</string>
+    <string name="config_emulation_direct_mode_title">Doğrudan mod</string>
+    <string name="config_emulation_direct_mode">GameScope ile birlikte kullanıldığında programları sanal masaüstü olmadan doğrudan başlatır. Bu, çözünürlüğü yok sayabilir ancak bir miktar çoklu görev sağlar.</string>
     <string name="settings_debug_title">Hata ayıklama</string>
     <string name="settings_debug_wine_channels_title">Wine hata ayıklama kanallarını seç</string>
     <string name="settings_debug_wine_logs_title">Wine hata ayıklama günlüklerini aç</string>

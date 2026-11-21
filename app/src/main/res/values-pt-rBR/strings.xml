@@ -211,6 +211,9 @@
     <string name="task_manager">Gerenciador de tarefas</string>
     <string name="tools_wine_processes_running_hint">%1$d em execução, toque/clique em um processo para fechá-lo</string>
     <string name="tools_wine_processes_empty">Nenhum EXE em execução detectado.</string>
+    <string name="quick_menu_taskmgr_create">Criar nova tarefa</string>
+    <string name="quick_menu_taskmgr_string">Digite o nome de um programa, pasta, documento ou recurso da Internet, e o Wine o abrirá para você.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Alternar janelas</string>
     <string name="magnifier">Lupa</string>
     <string name="logs">Logs</string>
     <string name="exit_game">Sair</string>
@@ -571,6 +574,13 @@
     <string name="steam_sign_out">Sair do Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Informações</string>
+    <string name="container_cover">Capa</string>
+    <string name="container_name">Nome</string>
+    <string name="container_option_cover">Escolher capa</string>
+    <string name="container_option_images">Escolher imagens</string>
+    <string name="container_option_image_types">Tipos de imagem</string>
+    <string name="container_dialog_image">Os arquivos de imagem ficam na pasta do jogo. “Escolher capa” define uma capa para todas as visualizações, ou use “Importar arquivos” com estes nomes:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Nova Variável de Ambiente</string>
     <string name="name">Nome</string>
     <string name="value">Valor</string>
@@ -1022,6 +1032,8 @@
     <string name="settings_emulation_default_config_dialog_title">Configuração padrão do contêiner</string>
     <string name="settings_emulation_auto_apply_known_config_title">Aplicar configuração conhecida automaticamente</string>
     <string name="settings_emulation_auto_apply_known_config_subtitle">Aplica automaticamente as configurações recomendadas para jogos Steam na primeira inicialização</string>
+    <string name="config_emulation_direct_mode_title">Modo direto</string>
+    <string name="config_emulation_direct_mode">Inicia os programas diretamente quando usado com o GameScope, sem uma área de trabalho virtual. Isso pode ignorar a resolução, mas permite alguma multitarefa.</string>
     <string name="settings_emulation_fex_code_map_upload_title">Enviar mapas de código do FEX</string>
     <string name="settings_emulation_fex_code_map_upload_subtitle">Envia quais blocos de código dos executáveis de um jogo foram executados, sem dados pessoais. Normalmente menos de 1 MB por jogo.</string>
     <string name="settings_emulation_fex_code_cache_use_title">Usar caches de código do FEX (experimental)</string>

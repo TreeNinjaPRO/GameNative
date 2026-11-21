@@ -277,6 +277,9 @@
     <string name="task_manager">Диспетчер завдань</string>
     <string name="tools_wine_processes_running_hint">%1$d запущено, торкніться/клацніть процес, щоб закрити його</string>
     <string name="tools_wine_processes_empty">Запущених EXE не виявлено.</string>
+    <string name="quick_menu_taskmgr_create">Створити нове завдання</string>
+    <string name="quick_menu_taskmgr_string">Введіть ім\'я програми, папки, документа або інтернет-ресурсу, і Wine відкриє його.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Перемикання вікон</string>
     <string name="magnifier">Лупа</string>
     <string name="logs">Журнали</string>
     <string name="exit_game">Вийти з гри</string>
@@ -732,6 +735,13 @@
     <string name="steam_sign_out">Вийти з Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Інформація</string>
+    <string name="container_cover">Обкладинка</string>
+    <string name="container_name">Назва</string>
+    <string name="container_option_cover">Вибрати обкладинку</string>
+    <string name="container_option_images">Вибрати зображення</string>
+    <string name="container_option_image_types">Типи зображень</string>
+    <string name="container_dialog_image">Файли зображень зберігаються в папці гри. «Вибрати обкладинку» задає одну обкладинку для всіх видів, або скористайтеся «Імпорт файлів» з такими назвами:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">Нова змінна середовища</string>
     <string name="name">Назва</string>
     <string name="value">Значення</string>
@@ -1217,6 +1227,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Інсталяція додаткових компонентів (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Менеджер Wine/Proton</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Імпорт власних версій Wine/Proton (лише Bionic)</string>
+    <string name="config_emulation_direct_mode_title">Прямий режим</string>
+    <string name="config_emulation_direct_mode">Запускати програми напряму під час використання разом із GameScope, без віртуального робочого столу. Роздільна здатність може ігноруватися, але стає можливою певна багатозадачність.</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Налагодження</string>

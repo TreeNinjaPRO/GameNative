@@ -452,6 +452,9 @@
     <string name="immersive_windows_vr_export_desc">Save the bounded runtime event report</string>
     <string name="tools_wine_processes_running_hint">%1$d running, tap/click a process to close</string>
     <string name="tools_wine_processes_empty">No running EXEs detected.</string>
+    <string name="quick_menu_taskmgr_create">Create new task</string>
+    <string name="quick_menu_taskmgr_string">Type the name of a program, folder, document or Internet resource, and Wine will open it for you.</string>
+    <string name="quick_menu_taskmgr_switchwindows">Switch Windows</string>
     <string name="performance_hud">Performance HUD</string>
     <string name="performance_hud_description">Show or hide the in-game overlay.</string>
     <string name="performance_hud_fps_limiter">FPS limiter</string>
@@ -922,6 +925,13 @@
     <string name="steam_sign_out">Sign out of Steam</string>
 
     <!-- Container Configuration: General -->
+    <string name="container_overview">Information</string>
+    <string name="container_cover">Cover</string>
+    <string name="container_name">Name</string>
+    <string name="container_option_cover">Choose Cover</string>
+    <string name="container_option_images">Choose Images</string>
+    <string name="container_option_image_types">Image Types</string>
+    <string name="container_dialog_image">Image files are stored in the game folder. “Choose Cover” sets one cover for every view, or use “Import Files” with these names:\n\ncover\ncoverh\ncoverv</string>
     <string name="new_environment_variable">New Environment Variable</string>
     <string name="name">Name</string>
     <string name="value">Value</string>
@@ -1427,6 +1437,8 @@
     <string name="settings_emulation_contents_manager_subtitle">Install additional components (.wcp)</string>
     <string name="settings_emulation_wine_proton_manager_title">Wine/Proton Manager</string>
     <string name="settings_emulation_wine_proton_manager_subtitle">Import custom Wine/Proton versions (Bionic only)</string>
+    <string name="config_emulation_direct_mode_title">Direct Mode</string>
+    <string name="config_emulation_direct_mode">Launch Programs directly when used in combination with GameScope without a Virtual Desktop. This may ignore Resolution but allow some multitasking.</string>
 
     <!-- Settings: Debug Group -->
     <string name="settings_debug_title">Debug</string>
